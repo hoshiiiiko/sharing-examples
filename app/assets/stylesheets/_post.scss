@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+
+form {
+  background-color: blue;
+  
+}
+.contents {
+  background-color: red;
+  &__product-name {
+    background-color: white;
+  }
+}
